@@ -41,3 +41,7 @@ You can also check if the tweet exists by prodiving the link.
 ## Contributing
 
 Bug reports are welcome on GitHub at https://github.com/wwwfernand/twitter_embed.
+
+## Donations
+Hey 👋 If I was able to helped you, please consider buying me a coffee.
+https://www.buymeacoffee.com/looney
